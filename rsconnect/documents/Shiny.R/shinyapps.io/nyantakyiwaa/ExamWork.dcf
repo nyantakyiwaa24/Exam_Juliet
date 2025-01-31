@@ -1,0 +1,13 @@
+name: ExamWork
+title: ExamWork
+username: nyantakyiwaa
+account: nyantakyiwaa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13855394
+bundleId: 9723590
+url: https://nyantakyiwaa.shinyapps.io/ExamWork/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data cleaning code.R|Key User Persona.pdf|Visualization.R
